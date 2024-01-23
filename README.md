@@ -1,5 +1,7 @@
 # a very simple startpage
-Just showing time and japanese greetings
+Displays the current time and greetings in Japanese automatically.
+![image](https://github.com/asephudori/startpage/assets/88381571/a379540b-0b34-4027-ad6a-7ebff8fca1b8)
+
 
 # installation
 1. Download/Clone this repository.
