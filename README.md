@@ -1,4 +1,6 @@
 # a very simple startpage
+greetings will change in the morning, afternoon and evening.
+
 ![image](https://github.com/asephudori/startpage/assets/88381571/a379540b-0b34-4027-ad6a-7ebff8fca1b8)
 
 
