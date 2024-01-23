@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function() {
     function getGreeting(jam) {
         let sapaan = "";
 
-        if (jam >= 0 && jam < 12) {
+        if (jam >= 4 && jam < 11) {
             sapaan = "おはよう";
         } else if (jam >= 12 && jam < 18) {
             sapaan = "こんにちは";
